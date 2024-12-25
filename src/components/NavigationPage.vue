@@ -111,6 +111,7 @@ const register = async () => {
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav">
           <li class="nav-title sr-only">花韵心语</li>
+          <h1>集成测试演示视频</h1>
           <li>
             <RouterLink to="/flowerHome" class="nav-link">首页</RouterLink>
           </li>
